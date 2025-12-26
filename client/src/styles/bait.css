@@ -1,0 +1,23 @@
+.bait-icon {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.bait-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.bait-list-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.bait-list-item-icon {
+  margin-right: 8px;
+}
