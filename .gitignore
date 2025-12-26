@@ -1,23 +1,18 @@
-# IDE / Sistema
-.vs/
-.idea/
-*.log
-nul
-
 # Node
 node_modules/
 dist/
 
-# Replit
-.replit
-.replit.nix
+# IDE / OS
+.vs/
 .config/
 .local/
-attached_assets/
+.replit/
+.idea/
+
+# Logs
+*.log
 
 # OS
 .DS_Store
 Thumbs.db
-
-# Env
-.env
+nul
